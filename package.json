@@ -1,0 +1,16 @@
+{
+  "name": "arvato",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "heroku-postbuild": "cd server && npm install && cd ../client && npm install && npm run build",
+    "client": "npm start --prefix client",
+    "start": "node client/server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
