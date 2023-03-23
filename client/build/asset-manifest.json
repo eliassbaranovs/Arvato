@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d4d554d.css",
+    "main.js": "/static/js/main.b87c1438.js",
+    "static/media/Logo_Arvato_Systems_Original_RGB.png": "/static/media/Logo_Arvato_Systems_Original_RGB.f8724b6ea30fd3740723.png",
+    "index.html": "/index.html",
+    "main.9d4d554d.css.map": "/static/css/main.9d4d554d.css.map",
+    "main.b87c1438.js.map": "/static/js/main.b87c1438.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d4d554d.css",
+    "static/js/main.b87c1438.js"
+  ]
+}
